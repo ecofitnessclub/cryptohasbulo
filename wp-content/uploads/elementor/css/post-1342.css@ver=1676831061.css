@@ -1761,7 +1761,7 @@ html {
   font-style: normal;
   font-weight: normal;
   font-display: auto;
-  src: url("/fonts/F37Judge-MediumCompressed.woff2");
+  src: url("../../../../fonts/F37Judge-MediumCompressed.woff2");
 }
 /* End Custom Fonts CSS */
 /* Start Custom Fonts CSS */
@@ -1770,21 +1770,21 @@ html {
   font-style: normal;
   font-weight: normal;
   font-display: auto;
-  src: url("/fonts/MDIO0.4-Regular.woff2") format("woff2");
+  src: url("../../../../fonts/MDIO0.4-Regular.woff2") format("woff2");
 }
 @font-face {
   font-family: "MDIO";
   font-style: normal;
   font-weight: 700;
   font-display: auto;
-  src: url("/fonts/MDIO0.4-Semibold.woff2") format("woff2");
+  src: url("../../../../fonts/MDIO0.4-Semibold.woff2") format("woff2");
 }
 @font-face {
   font-family: "MDIO";
   font-style: normal;
   font-weight: 900;
   font-display: auto;
-  src: url("/fonts/MDIO0.4-Ultra.woff2") format("woff2");
+  src: url("../../../../fonts/MDIO0.4-Ultra.woff2") format("woff2");
 }
 /* End Custom Fonts CSS */
 /* Start Custom Fonts CSS */
@@ -1793,6 +1793,6 @@ html {
   font-style: normal;
   font-weight: normal;
   font-display: auto;
-  src: url("../../2022/04/MonoRegular.woff2.html") format("woff2");
+  src: url("../../../../2022/04/MonoRegular.woff2.html") format("woff2");
 }
 /* End Custom Fonts CSS */
