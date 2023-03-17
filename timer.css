@@ -78,6 +78,10 @@
   font-family: "Judge", Sans-serif;
 }
 
+.elementor-section .elementor-container {
+  justify-content: center !important;
+}
+
 @media screen and (max-width: 500px) {
   .top-timer {
     display: flex;
